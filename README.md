@@ -22,6 +22,7 @@ The tool reads message IDs from messages file by using the given channel ID fold
 - You can only delete messages in the package. You can't delete messages sent after obtaining the package.
 - Requires finding auth token
 - Requires knowledge on how to install pip packages
+- Obtaining the Data Package might take some time
 
 ## 🔒 Security
 You as a user have to trust the developer that there isn't any malicious code in the program. Thus making this program open-source ensures that you can take a look at the code at any time to ensure nothing malicious is happening in the code. **The program will only do requests to Discord API and no elsewhere.**
