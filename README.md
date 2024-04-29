@@ -17,7 +17,7 @@ The tool reads message IDs from messages file by using the given channel ID fold
 
 ## ✅ Pros
 - Doesn't have to query message IDs using search -> faster deletion process(?)
-- Doesn't have to have Discord opened (assuming you have auth token saved and know the correct message IDs)
+- Doesn't have to have Discord opened (assuming you have auth token saved and know the correct channel IDs)
 ## ❌ Cons
 - You can only delete messages in the package. You can't delete messages sent after obtaining the package.
 - Requires finding auth token
